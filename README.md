@@ -5,4 +5,6 @@ Analysis of twitter data using shiny server - This has been discussed in a blog 
 
 Collegetweetanalytics is a folder containing files required for basic results using twitter data for the five universities studied.
 
-2CollegeWCs is a folder containing files required for the word cloud application using the shiny server.
+2CollegeWCs is a folder containing files required for the word cloud application using the shiny server. 
+
+Please contact me at patilv@gmail.com for any comments/suggestions/questions.
