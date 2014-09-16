@@ -19,7 +19,7 @@ PrepareTwitter<-function()
 PrepareTwitter()
 
 load("credential") # A credential obtained from twitter permitting access to their data - A user will need this to proceed
-# Please see http://cran.r-project.org/web/packages/twitteR/vignettes/twitteR.pdf for more info on this.
+# Please see http://cran.r-project.org/web/packages/twitteR/twitteR.pdf for more info on this.
 
 registerTwitterOAuth(credential)
 
